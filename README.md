@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Georg Spack profile views](https://u8views.com/api/v1/github/profiles/4614965/views/day-week-month-total-count.svg)](https://u8views.com/github/Georgynet)
+
 <!--
 **Georgynet/Georgynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
