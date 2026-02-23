@@ -16,6 +16,7 @@ With over 13 years of experience in building high-load systems and processing ma
 **🛠 Current Projects & Interests:**
 * **Langokit:** An AI SaaS for language learning built with **Go** and LLMs.
 * **SalatBar:** Resource planning tool focused on **Clean Architecture** principles.
+* **BooksProject:** Books tracker focused on Java and Spring Boot.
 * **Open Source:** I maintain and modernize long-term community archives (Wolgadeutsche.net).
 
 ---
